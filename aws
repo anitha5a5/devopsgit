@@ -1,2 +1,2 @@
 #!/bin/bash
-service nfs restart
+service nfs restarthi this is aws class
